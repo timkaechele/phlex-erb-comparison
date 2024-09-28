@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.14.0)
+    cgi (0.4.1)
+    erb (4.0.4)
+      cgi (>= 0.3.3)
+    phlex (1.11.0)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  benchmark-ips (~> 2.14)
+  erb (~> 4.0)
+  phlex (~> 1.11)
+
+BUNDLED WITH
+   2.5.20
